@@ -20,3 +20,7 @@
 ## 2、观察返回的结果
 # 执行结果如下
 ![示例](https://github.com/Nian-Stars/Any-File-Read-Poc/blob/main/res-some.jpg)
+< br >
+# 扫描到存在的漏洞URL之后，我们选择一个URL进行访问检测
+## 访问结果如下：
+![示例](https://github.com/Nian-Stars/Any-File-Read-Poc/blob/main/burp.jpg)
